@@ -33,11 +33,11 @@
 
 ## 🌐 Featured Websites
 
-- 🔗 [LinkUp](https://linkup.yuvrajyadav.tech) — Professional networking platform  
-- ✍️ [BlogWave](https://blogwave.yuvrajyadav.tech) — Blogging website  
-- 🛒 [CodeDeck](https://codedeck.yuvrajyadav.tech) — Developer course & template marketplace  
-- 🧑‍💻 [CodeCraft](https://codecraft.yuvrajyadav.tech) — Online code editor and compiler for multiple languages  
-- 🕵️ [EcopStation](https://ecop.yuvrajyadav.tech) — Police FIR management portal
+- 🔗 [LinkUp](https://linkup.yuvraj.works) — Professional networking platform  
+- ✍️ [BlogWave](https://blogwave.yuvraj.works) — Blogging website  
+- 🛒 [CodeDeck](https://codedeck.yuvraj.works) — Developer course & template marketplace  
+- 🧑‍💻 [CodeCraft](https://codecraft.yuvraj.works) — Online code editor and compiler for multiple languages  
+- 🕵️ [EcopStation](https://ecop.yuvraj.works) — Police FIR management portal
 
 ---
 
@@ -49,7 +49,7 @@
 
 ## 📎 Profiles
 
-- 🌐 [Portfolio](https://yuvrajyadav.tech)  
+- 🌐 [Portfolio](https://yuvraj.works)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/yuvraj7000)  
 - 🧑‍💻 [CodeChef](https://www.codechef.com/users/yuvraj7000)  
 - 🧑‍💻 [LeetCode](https://leetcode.com/u/yuvraj7000)  
